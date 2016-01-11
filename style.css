@@ -1,0 +1,46 @@
+.wrapper{
+	width: 100%;
+	text-align: center;
+
+}
+
+.main-image-holder{
+	width: 80%;
+	margin:auto;
+	position: relative;
+	text-align: center;
+}
+.image-left{
+	width: 48%;
+	float: left;
+	padding:1%;
+}
+.image-right{
+	width: 48%;
+	float: left;
+	padding:1%;
+}
+.image-holder{
+	height: 350px;
+	overflow: hidden;
+}
+img{
+	width:100%;
+}
+.button-holder{
+	margin:auto;
+}
+.vote{
+	background: blue;
+	color:white;
+}
+button{
+	margin:0% 7%;
+	width:100px;
+	height: 50px;
+	background: #e7e7e7;
+}
+button:hover{
+	background: #e7e7e7;
+	color:black;
+	cursor: pointer;
